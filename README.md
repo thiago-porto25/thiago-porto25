@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thiago-porto25
-- 👀 I’m interested in Front End Web Development 
-- 🌱 I’m currently learning React JS and React Native
+- 👋 Hi, I’m Thiago Porto
+- 👀 I’m a Front End Web Developer 
+- 🌱 I’m currently working at D3 Company
 - 📫 You can reach me at thiago.porto@d3.do
 
 <!---
