@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thiago Porto
 - 👀 I’m a Front End Web Developer 
-- 🌱 I’m currently working at D3 Company
+- 🌱 I’m currently working at <a href='https://github.com/d3estudio'>D3 Company</a>
 - 📫 You can reach me at thiago.porto@d3.do
 
 <!---
